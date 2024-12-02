@@ -26,6 +26,8 @@ This repository contains my personal website and blog, [www.chrisvogt.me](https:
 
 This repository uses [Yarn workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) to separate the theme code from the content.
 
+First, if you do not have `Yarn` installed, install `Yarn`.
+
 To install, use Yarn. From the root, do:
 
 ```sh
